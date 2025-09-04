@@ -1,6 +1,7 @@
 # 👋 Olá, eu sou a Raissa Fabrício Lima
 
-![GitHub Banner](https://i.pinimg.com/736x/58/34/30/58343084672050d45aa757caca4970e3.jpg)
+![GitHub Banner](<img width="735" height="417" alt="image" src="https://github.com/user-attachments/assets/eda3ad6f-9aa0-4e01-8743-293a3994a536" />
+)
 
 Sou estudante e entusiasta em **desenvolvimento web e Python**, apaixonada por **programação, IA e projetos que impactam pessoas**.  
 
